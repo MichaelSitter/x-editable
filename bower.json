@@ -1,9 +1,8 @@
 {
   "name": "x-editable",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "main": "dist/README.md",
   "ignore": [
-    "*.*",
     "LICENSE-MIT",
     "node_modules",
     "components",
